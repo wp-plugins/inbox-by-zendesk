@@ -1,16 +1,17 @@
 === Inbox by Zendesk  ===
 Contributors: zendesk_official
+License: Apache 2.0
 Donate link: https://www.zendesk.com/inbox
 Tags: zendesk, support, customer support, help desk, helpdesk, IT, customer, admin, bug, ticket, widget, comments
 Requires at least: 2.9.2
 Tested up to: 4.2.1
 Stable tag: 1.0.0
 
-Zendesk Inbox for WordPress allows you to easily place a contact form on your site and get started with your contact@yourcompany.com email in just a couple of clicks.
+Inbox by Zendesk helps your team manage emails together. It lets you talk among yourselves, respond as one, and be there for your people.
 
 == Description ==
 
-Zendesk Inbox for WordPress allows you to easily place a contact form on your site and get started with your contact@yourcompany.com email in just a couple of clicks.
+Inbox by Zendesk for WordPress allows you to easily place a contact form on your site and get started with your contact@yourcompany.com email in just a couple of clicks.
 
 All messages are managed in Inbox’s easy-to-use shared email interface, where your team conversations happen faster, and your client’s questions get answered correctly.  Sign up for free, add a few teammates, and try it out today.
 
